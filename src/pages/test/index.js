@@ -1,5 +1,7 @@
 const Index = (props) => {
-  console.log("testIndo Props ::: ", props);
+  console.log("testIndo Props 1 ::: ", props);
+  console.log("testIndo Props 2 ::: ", props);
+  console.log("testIndo Props 3 ::: ", props);
   return <div>testIndex</div>;
 };
 
