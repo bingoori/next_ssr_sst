@@ -45,7 +45,9 @@ var jsx_runtime = __webpack_require__(893);
 ;// CONCATENATED MODULE: ./src/pages/test/index.js
 
 const Index = (props)=>{
-    console.log("testIndo Props ::: ", props);
+    console.log("testIndo Props 1 ::: ", props);
+    console.log("testIndo Props 2 ::: ", props);
+    console.log("testIndo Props 3 ::: ", props);
     return /*#__PURE__*/ jsx_runtime.jsx("div", {
         children: "testIndex"
     });

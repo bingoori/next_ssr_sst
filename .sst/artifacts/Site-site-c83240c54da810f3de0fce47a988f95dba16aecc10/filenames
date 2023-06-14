@@ -3,13 +3,11 @@ _next/static/chunks/main-a9a5f9df1dceef89.js
 _next/static/chunks/pages/_app-7172e87d084d5d88.js
 _next/static/chunks/pages/_error-54de1933a164a1ff.js
 _next/static/chunks/pages/index-d6861770ec753ef4.js
-_next/static/chunks/pages/test-3060a5efd9f239bf.js
+_next/static/chunks/pages/test-a1d07e7acfc33167.js
 _next/static/chunks/polyfills-78c92fac7aa8fdd8.js
 _next/static/chunks/webpack-8fa1640cc84ba8fe.js
 _next/static/css/4ac1c1b66f6c74a3.css
 _next/static/css/876d048b5dab7c28.css
-_next/static/h4Yr8PA8dEBK5QiqhJYFJ/_buildManifest.js
-_next/static/h4Yr8PA8dEBK5QiqhJYFJ/_ssgManifest.js
 _next/static/media/2aaf0723e720e8b9-s.p.woff2
 _next/static/media/9c4f34569c9b36ca-s.woff2
 _next/static/media/ae9ae6716d4f8bf8-s.woff2
@@ -17,6 +15,8 @@ _next/static/media/b1db3e28af9ef94a-s.woff2
 _next/static/media/b967158bc7d7a9fb-s.woff2
 _next/static/media/c0f5ec5bbf5913b7-s.woff2
 _next/static/media/d1d9458b69004127-s.woff2
+_next/static/r67SxLdV1Xn_I352yNRMp/_buildManifest.js
+_next/static/r67SxLdV1Xn_I352yNRMp/_ssgManifest.js
 BUILD_ID
 favicon.ico
 next.svg
